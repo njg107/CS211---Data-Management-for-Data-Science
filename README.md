@@ -1,1 +1,1 @@
-# CS211---Data-Management-for-Data-Science
+codes for cs211. Python for Data Science and SQL
