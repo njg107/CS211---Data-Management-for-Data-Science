@@ -1,1 +1,1 @@
-codes for cs211. Python for Data Science and SQL
+codes for cs211. Working with Python, SQL, and csv files for Data Science
