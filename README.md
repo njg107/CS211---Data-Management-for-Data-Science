@@ -1,1 +1,3 @@
-codes for cs211. Working with Python, SQL, and csv files for Data Science
+codes for cs211. 
+Data handling and visualization for data science. 
+Working with Python, SQL, and csv files.
